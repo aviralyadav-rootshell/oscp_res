@@ -1,0 +1,13 @@
+common creds
+
+svc_sql,
+svc_jenkins,
+mssql_svc,
+jenkins_svc
+password123
+admin:admin,
+devops:devops
+test:test
+dbadmin
+jenkins_exploit_suggester.py
+/config.xml, /credentials.xml, /script
